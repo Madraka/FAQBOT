@@ -1,8 +1,8 @@
 # faqbot
 [general]
 
-version    = "v5.0"
+version    = "v1.0"
 
-messagenew = "Merry Christmas to everyone!\n\nYou can select GUI language from Misc Tab (more languages will be added in time)"
-messageold = "A new version of MyBot is available!\nPlease download the latest from:\nhttp://FORUM.FAQPHONE.COM"
+messagenew = "Mutlu Yıllar !\n\nYeni Botumuz Alpha testinde çalışmalarımızı desteklemek için Lütfen forumda bağış yapınız."
+messageold = "Yeni Sürüm!\nLütfen buradan yeni Güncel botu indirin:\nhttp://FORUM.FAQPHONE.COM"
 
