@@ -3,6 +3,7 @@
 
 version    = "v1.0"
 
-messagenew = "Mutlu Yıllar !\n\nYeni Botumuz Alpha testinde çalışmalarımızı desteklemek için Lütfen forumda bağış yapınız."
+messagenew = "Mutlu Yıllar !\n\nYeni Botumuz Alpha testinde çalışmalarımızı desteklemek için Lütfen forumda bağış yapınız
+  destekleyenler:Kartaliçe,Emre Atay,DtyOmer, Bağışta Bulundukları için Teşekkür ederiz."
 messageold = "Yeni Sürüm!\nLütfen buradan yeni Güncel botu indirin:\nhttp://FORUM.FAQPHONE.COM"
 
