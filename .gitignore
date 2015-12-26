@@ -1,7 +1,7 @@
-# MyBot.run AUTOIT .gitignore file 
+# FAQPHONE.COM AUTOIT .gitignore file 
 # Global Files 
 /.project 
-*.ini 
+ *.ini 
  *.log 
  *.orig 
  *.png 
