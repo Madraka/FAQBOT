@@ -1,7 +1,7 @@
 # faqbot
 [general]
 
-version    = "v1.0"
+version    = "v1.1"
 
 messagenew = "Mutlu Yıllar !\n\nYeni Botumuz Alpha testinde çalışmalarımızı desteklemek için Lütfen forumda bağış yapınız. Destekleyenler:Kartaliçe,Emre Atay,DtyOmer, Bağışta Bulundukları için Teşekkür ederiz."
 messageold = "Yeni Sürüm!\nLütfen buradan yeni Güncel botu indirin:\nhttp://FORUM.FAQPHONE.COM"
