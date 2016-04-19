@@ -1,0 +1,5 @@
+[general]
+version = "v1.2"
+messagenew = "Herkese iyi mutlu günler, yeniliklerden  haberdar olmak için \nhttp://faqphone.com adresinden ulaþabilirsiniz	Botun yapýmýnda katkýsý ve emeði olan kiþilere sonsuz teþekkürler
+Kendi emeðim sadece kendime özgü yeni stratejiler hata düzeltmeleri yeni eklentiler ve geliþtirmelerdir.Bana katkýsý ve desteði olan arkadaþlarýmada teþekkür ederim[Madraka]."
+messageold = "Merhaba arkadaþlar FAQBOT'UN yeni bir sürümü (v1.2) çýktý!\nLütfen yeni sürümü web sayfamýzdan indirin:\nhttp://faqphone.com" Clash of Clans Bölümünden indirebilirsiniz ÜYE Olmayý unutmayýn!
