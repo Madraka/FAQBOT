@@ -1,5 +1,5 @@
 # FAQBOT
-Clash of Clans ZBOT
+Clash of Clans FAQBOT
 
 Merhaba Arkadaşlar,
 
