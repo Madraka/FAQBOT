@@ -1,5 +1,8 @@
+# faqbot
 [general]
-version = "v1.2"
-messagenew = "Herkese iyi mutlu günler, yeniliklerden  haberdar olmak için \nhttp://faqphone.com adresinden ulaşabilirsiniz	Botun yapımında katkısı ve emeği olan kişilere sonsuz teşekkürler
-Kendi emeğim sadece kendime özgü yeni stratejiler hata düzeltmeleri yeni eklentiler ve geliştirmelerdir.Bana katkısı ve desteği olan arkadaşlarımada teşekkür ederim[Madraka]."
-messageold = "Merhaba arkadaşlar FAQBOT'UN yeni bir sürümü (v1.2) çıktı!\nLütfen yeni sürümü web sayfamızdan indirin:\nhttp://faqphone.com" Clash of Clans Bölümünden indirebilirsiniz ÜYE Olmayı unutmayın!
+
+version = "v1.3"
+messagenew = "Herkese iyi mutlu gÃ¼nler,Oyuna gelen yeni gÃ¼ncelleme ile botda asker Ã¼retme,bagÄ±ÅŸ yapma ve laburatuvar yukseltme sorunu yaÅŸanmakta full gÃ¼ncelleme gelene kadar HÄ±zlÄ± olarak dÃ¼zenlenmiÅŸ asker Ã¼retme sorunu dÃ¼zeltildi yeniliklerden  haberdar olmak iÃ§in \nhttp://faqphone.com adresinden ulaÅŸabilirsiniz	Botun yapÄ±mÄ±nda katkÄ±sÄ± ve emeÄŸi olan kiÅŸilere sonsuz teÅŸekkÃ¼rler
+Kendi emeÄŸim sadece kendime Ã¶zgÃ¼ yeni stratejiler hata dÃ¼zeltmeleri yeni eklentiler ve geliÅŸtirmelerdir.Bana katkÄ±sÄ± ve desteÄŸi olan arkadaÅŸlarÄ±mada teÅŸekkÃ¼r ederim[Madraka]."
+messageold = "Merhaba arkadaÅŸlar FAQBOT'UN yeni bir sÃ¼rÃ¼mÃ¼ (v1.3) Ã§Ä±ktÄ±!\nLÃ¼tfen yeni sÃ¼rÃ¼mÃ¼ web sayfamÄ±zdan indirin:\nhttp://faqphone.com" Clash of Clans BÃ¶lÃ¼mÃ¼nden indirebilirsiniz ÃœYE OlmayÄ± unutmayÄ±n!
+
