@@ -1,7 +1,7 @@
 # faqbot
 [general]
 
-version = "v1.3"
+version = "v2.0"
 messagenew = "Herkese iyi mutlu günler,Oyuna gelen yeni güncelleme ile botda asker üretme,bagış yapma ve laburatuvar yukseltme sorunu yaşanmakta full güncelleme gelene kadar Hızlı olarak düzenlenmiş asker üretme sorunu düzeltildi yeniliklerden  haberdar olmak için \nhttp://faqphone.com adresinden ulaşabilirsiniz	Botun yapımında katkısı ve emeği olan kişilere sonsuz teşekkürler
 Kendi emeğim sadece kendime özgü yeni stratejiler hata düzeltmeleri yeni eklentiler ve geliştirmelerdir.Bana katkısı ve desteği olan arkadaşlarımada teşekkür ederim[Madraka]."
 messageold = "Merhaba arkadaşlar FAQBOT'UN yeni bir sürümü (v1.3) çıktı!\nLütfen yeni sürümü web sayfamızdan indirin:\nhttp://faqphone.com" Clash of Clans Bölümünden indirebilirsiniz ÜYE Olmayı unutmayın!
